@@ -1,0 +1,94 @@
+isReorderDisabled: false
+left:
+- type: Pinned
+  id: 75204d90-0239-490b-a6d8-120ef223a8e2
+  subtype: App
+  umid: null
+  path: C:\Windows\explorer.exe
+  relaunchProgram: C:\Windows\explorer.exe
+  relaunchArgs: null
+  relaunchIn: null
+  displayName: Explorer
+  windows: []
+  pinDisabled: false
+center:
+- type: Pinned
+  id: 9b0b88d0-7637-4ea5-9bf0-fb26e6ed7634
+  subtype: App
+  umid: com.squirrel.Discord.Discord
+  path: C:\Users\bibou\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
+  relaunchProgram: C:\Windows\explorer.exe
+  relaunchArgs: shell:AppsFolder\com.squirrel.Discord.Discord
+  relaunchIn: null
+  displayName: Discord
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: b57e56bf-23ea-414e-bdf2-d1bb72b25b32
+  subtype: App
+  umid: null
+  path: C:\Windows\System32\Taskmgr.exe
+  relaunchProgram: C:\Windows\System32\Taskmgr.exe
+  relaunchArgs: null
+  relaunchIn: null
+  displayName: Gestionnaire des tâches
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: b9857673-476f-4cdc-835a-7a2e0dc708ae
+  subtype: App
+  umid: null
+  path: C:\Program Files\Corsair\Corsair iCUE5 Software\iCUE.exe
+  relaunchProgram: C:\Program Files\Corsair\Corsair iCUE5 Software\iCUE.exe
+  relaunchArgs: null
+  relaunchIn: null
+  displayName: iCUE
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 957a666b-8fcc-43de-91c3-8961fbca64e5
+  subtype: App
+  umid: OperaSoftware.OperaGXWebBrowser.1737840210
+  path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Navigateur Opera GX.lnk
+  relaunchProgram: C:\Windows\explorer.exe
+  relaunchArgs: shell:AppsFolder\OperaSoftware.OperaGXWebBrowser.1737840210
+  relaunchIn: null
+  displayName: Navigateur Opera GX
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: bf033a58-1484-4513-ad6c-7125d7834e7d
+  subtype: App
+  umid: com.moonsworth.client
+  path: C:\Users\bibou\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Lunar Client.lnk
+  relaunchProgram: C:\Windows\explorer.exe
+  relaunchArgs: shell:AppsFolder\com.moonsworth.client
+  relaunchIn: null
+  displayName: Lunar Client
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 70367dce-32c7-433e-a06a-f2d7c978bda3
+  subtype: App
+  umid: Valve.Steam.Client
+  path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+  relaunchProgram: C:\Program Files (x86)\Steam\steam.exe
+  relaunchArgs: null
+  relaunchIn: null
+  displayName: Steam
+  windows: []
+  pinDisabled: false
+right:
+- type: Media
+  id: f6f30777-6edd-4fcf-b7b3-3949fe726eb7
+- type: Pinned
+  id: 3b4fd130-06f2-418b-9e06-c605844c3056
+  subtype: App
+  umid: null
+  path: C:\Users\bibou\AppData\Roaming\Spotify\Spotify.exe
+  relaunchProgram: C:\Users\bibou\AppData\Roaming\Spotify\Spotify.exe
+  relaunchArgs: null
+  relaunchIn: null
+  displayName: Spotify
+  windows: []
+  pinDisabled: false

@@ -1,0 +1,33 @@
+isReorderDisabled: false
+left:
+  - '@default/user-folder'
+  - type: text
+    id: d09439eb-d5a4-4361-857a-3a6c1f33e921
+    template: return "|"
+    tooltip: null
+    badge: null
+    onClick: null
+    onClickV2: null
+    style: {}
+    remoteData: {}
+  - '@default/focused-app'
+  - type: generic
+    id: 03e677a8-9a0a-4ea7-a441-3165786aef3b
+    template: 'return window.title ? "-" : ""'
+    tooltip: null
+    badge: null
+    onClick: null
+    onClickV2: null
+    style: {}
+    remoteData: {}
+  - '@default/focused-app-title'
+center:
+  - '@default/date'
+right:
+  - '@default/system-tray'
+  - '@default/keyboard'
+  - '@default/bluetooth'
+  - '@default/network'
+  - '@default/media'
+  - '@default/notifications'
+  - '@default/quick-settings'

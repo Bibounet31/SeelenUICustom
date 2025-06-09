@@ -1,0 +1,6 @@
+id: '@custom/old-start-icon'
+metadata:
+  displayName: Old Start Icon
+  description: Start icon from previous versions
+specific:
+  '@seelen/weg::start-menu': old-start-menu-icon.svg

@@ -1,0 +1,7 @@
+CMD:
+  - hi
+RUN:
+  - oper
+  - lunar
+  - lu
+  - disc

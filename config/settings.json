@@ -1,0 +1,579 @@
+{
+  "monitorsV2": {
+    "\\\\?\\DISPLAY#SAM711A#5&22148b2f&1&UID4355#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}": {
+      "byWidget": {
+        "@seelen/weg": {
+          "enabled": true,
+          "temporalItemsVisibility": null,
+          "pinnedItemsVisibility": null
+        },
+        "@seelen/fancy-toolbar": {
+          "enabled": true
+        },
+        "@seelen/window-manager": {
+          "enabled": true,
+          "padding": null,
+          "margin": null,
+          "gap": null,
+          "layout": null
+        },
+        "@seelen/wallpaper-manager": {
+          "enabled": true,
+          "backgrounds": null
+        }
+      },
+      "workspacesV2": []
+    },
+    "\\\\?\\DISPLAY#AOC2401#5&22148b2f&1&UID4357#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}": {
+      "byWidget": {
+        "@seelen/weg": {
+          "enabled": true,
+          "temporalItemsVisibility": null,
+          "pinnedItemsVisibility": null
+        },
+        "@seelen/fancy-toolbar": {
+          "enabled": true
+        },
+        "@seelen/window-manager": {
+          "enabled": true,
+          "padding": null,
+          "margin": null,
+          "gap": null,
+          "layout": null
+        },
+        "@seelen/wallpaper-manager": {
+          "enabled": true,
+          "backgrounds": null
+        }
+      },
+      "workspacesV2": []
+    },
+    "\\\\?\\DISPLAY#AOC2401#5&22148b2f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}": {
+      "byWidget": {
+        "@seelen/weg": {
+          "enabled": true,
+          "temporalItemsVisibility": null,
+          "pinnedItemsVisibility": null
+        },
+        "@seelen/fancy-toolbar": {
+          "enabled": true
+        },
+        "@seelen/window-manager": {
+          "enabled": true,
+          "padding": null,
+          "margin": null,
+          "gap": null,
+          "layout": null
+        },
+        "@seelen/wallpaper-manager": {
+          "enabled": true,
+          "backgrounds": null
+        }
+      },
+      "workspacesV2": []
+    }
+  },
+  "ahkEnabled": true,
+  "ahkVariables": {
+    "toggleLauncher": {
+      "fancy": "Win + S",
+      "ahk": "#s",
+      "readonly": true,
+      "devonly": false
+    },
+    "reserveTop": {
+      "fancy": "Win + Shift + I",
+      "ahk": "#+i",
+      "readonly": false,
+      "devonly": false
+    },
+    "reserveBottom": {
+      "fancy": "Win + Shift + K",
+      "ahk": "#+k",
+      "readonly": false,
+      "devonly": false
+    },
+    "reserveLeft": {
+      "fancy": "Win + Shift + J",
+      "ahk": "#+j",
+      "readonly": false,
+      "devonly": false
+    },
+    "reserveRight": {
+      "fancy": "Win + Shift + L",
+      "ahk": "#+l",
+      "readonly": false,
+      "devonly": false
+    },
+    "reserveFloat": {
+      "fancy": "Win + Shift + U",
+      "ahk": "#+u",
+      "readonly": false,
+      "devonly": false
+    },
+    "reserveStack": {
+      "fancy": "Win + Shift + O",
+      "ahk": "#+o",
+      "readonly": false,
+      "devonly": false
+    },
+    "focusTop": {
+      "fancy": "Win + Alt + I",
+      "ahk": "#!i",
+      "readonly": false,
+      "devonly": false
+    },
+    "focusBottom": {
+      "fancy": "Win + Alt + K",
+      "ahk": "#!k",
+      "readonly": false,
+      "devonly": false
+    },
+    "focusLeft": {
+      "fancy": "Win + Alt + J",
+      "ahk": "#!j",
+      "readonly": false,
+      "devonly": false
+    },
+    "focusRight": {
+      "fancy": "Win + Alt + L",
+      "ahk": "#!l",
+      "readonly": false,
+      "devonly": false
+    },
+    "focusLatest": {
+      "fancy": "Win + Alt + U",
+      "ahk": "#!u",
+      "readonly": false,
+      "devonly": false
+    },
+    "increaseWidth": {
+      "fancy": "Win + Alt + =",
+      "ahk": "#!=",
+      "readonly": false,
+      "devonly": false
+    },
+    "decreaseWidth": {
+      "fancy": "Win + Alt + -",
+      "ahk": "#!-",
+      "readonly": false,
+      "devonly": false
+    },
+    "increaseHeight": {
+      "fancy": "Ctrl + Win + Alt + =",
+      "ahk": "^#!=",
+      "readonly": false,
+      "devonly": false
+    },
+    "decreaseHeight": {
+      "fancy": "Ctrl + Win + Alt + -",
+      "ahk": "^#!-",
+      "readonly": false,
+      "devonly": false
+    },
+    "restoreSizes": {
+      "fancy": "Win + Alt + 0",
+      "ahk": "#!0",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp0": {
+      "fancy": "Win + 1",
+      "ahk": "#1",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp1": {
+      "fancy": "Win + 2",
+      "ahk": "#2",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp2": {
+      "fancy": "Win + 3",
+      "ahk": "#3",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp3": {
+      "fancy": "Win + 4",
+      "ahk": "#4",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp4": {
+      "fancy": "Win + 5",
+      "ahk": "#5",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp5": {
+      "fancy": "Win + 6",
+      "ahk": "#6",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp6": {
+      "fancy": "Win + 7",
+      "ahk": "#7",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp7": {
+      "fancy": "Win + 8",
+      "ahk": "#8",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp8": {
+      "fancy": "Win + 9",
+      "ahk": "#9",
+      "readonly": false,
+      "devonly": false
+    },
+    "startWegApp9": {
+      "fancy": "Win + 0",
+      "ahk": "#0",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace0": {
+      "fancy": "Alt + 1",
+      "ahk": "!1",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace1": {
+      "fancy": "Alt + 2",
+      "ahk": "!2",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace2": {
+      "fancy": "Alt + 3",
+      "ahk": "!3",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace3": {
+      "fancy": "Alt + 4",
+      "ahk": "!4",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace4": {
+      "fancy": "Alt + 5",
+      "ahk": "!5",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace5": {
+      "fancy": "Alt + 6",
+      "ahk": "!6",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace6": {
+      "fancy": "Alt + 7",
+      "ahk": "!7",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace7": {
+      "fancy": "Alt + 8",
+      "ahk": "!8",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace8": {
+      "fancy": "Alt + 9",
+      "ahk": "!9",
+      "readonly": false,
+      "devonly": false
+    },
+    "switchWorkspace9": {
+      "fancy": "Alt + 0",
+      "ahk": "!0",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace0": {
+      "fancy": "Alt + Shift + 1",
+      "ahk": "!+1",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace1": {
+      "fancy": "Alt + Shift + 2",
+      "ahk": "!+2",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace2": {
+      "fancy": "Alt + Shift + 3",
+      "ahk": "!+3",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace3": {
+      "fancy": "Alt + Shift + 4",
+      "ahk": "!+4",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace4": {
+      "fancy": "Alt + Shift + 5",
+      "ahk": "!+5",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace5": {
+      "fancy": "Alt + Shift + 6",
+      "ahk": "!+6",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace6": {
+      "fancy": "Alt + Shift + 7",
+      "ahk": "!+7",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace7": {
+      "fancy": "Alt + Shift + 8",
+      "ahk": "!+8",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace8": {
+      "fancy": "Alt + Shift + 9",
+      "ahk": "!+9",
+      "readonly": false,
+      "devonly": false
+    },
+    "moveToWorkspace9": {
+      "fancy": "Alt + Shift + 0",
+      "ahk": "!+0",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace0": {
+      "fancy": "Win + Shift + 1",
+      "ahk": "#+1",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace1": {
+      "fancy": "Win + Shift + 2",
+      "ahk": "#+2",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace2": {
+      "fancy": "Win + Shift + 3",
+      "ahk": "#+3",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace3": {
+      "fancy": "Win + Shift + 4",
+      "ahk": "#+4",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace4": {
+      "fancy": "Win + Shift + 5",
+      "ahk": "#+5",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace5": {
+      "fancy": "Win + Shift + 6",
+      "ahk": "#+6",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace6": {
+      "fancy": "Win + Shift + 7",
+      "ahk": "#+7",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace7": {
+      "fancy": "Win + Shift + 8",
+      "ahk": "#+8",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace8": {
+      "fancy": "Win + Shift + 9",
+      "ahk": "#+9",
+      "readonly": false,
+      "devonly": false
+    },
+    "sendToWorkspace9": {
+      "fancy": "Win + Shift + 0",
+      "ahk": "#+0",
+      "readonly": false,
+      "devonly": false
+    },
+    "miscOpenSettings": {
+      "fancy": "Ctrl + Win + I",
+      "ahk": "^#i",
+      "readonly": true,
+      "devonly": false
+    },
+    "miscToggleLockTracing": {
+      "fancy": "Ctrl + Win + Alt + T",
+      "ahk": "^#!t",
+      "readonly": true,
+      "devonly": true
+    },
+    "miscToggleWinEventTracing": {
+      "fancy": "Ctrl + Win + Alt + L",
+      "ahk": "^#!l",
+      "readonly": true,
+      "devonly": true
+    }
+  },
+  "selectedThemes": [
+    "default",
+    "animated-start-icon",
+    "e97ff774-0084-4455-b19b-28b6bb102682.slu",
+    "bubbles.yml",
+    "fe3e08c6-c40e-4007-adf8-92f11a217fff.slu",
+    "95493b72-90e9-45f5-a3cb-5059ebd90333.slu",
+    "0d268be1-e136-4eb0-b33e-59732ba020c2.slu",
+    "62209958-7406-400f-89a1-e6bee40ef09e.slu",
+    "bc3dfebc-f534-4e0e-b08d-ef3744694138.slu"
+  ],
+  "iconPacks": [
+    "system"
+  ],
+  "devTools": false,
+  "language": "fr",
+  "dateFormat": "ddd D MMM, HH:MM",
+  "virtualDesktopStrategy": "Seelen",
+  "updater": {
+    "channel": "Beta"
+  },
+  "byWidget": {
+    "@seelen/weg": {
+      "enabled": true,
+      "mode": "MinContent",
+      "hideMode": "Always",
+      "temporalItemsVisibility": "All",
+      "pinnedItemsVisibility": "Always",
+      "position": "Bottom",
+      "thumbnailGenerationEnabled": true,
+      "showInstanceCounter": true,
+      "showWindowTitle": true,
+      "visibleSeparators": true,
+      "size": 40,
+      "zoomSize": 70,
+      "margin": 8,
+      "padding": 8,
+      "spaceBetweenItems": 10,
+      "delayToShow": 0,
+      "delayToHide": 15000
+    },
+    "@seelen/fancy-toolbar": {
+      "enabled": true,
+      "height": 30,
+      "position": "Top",
+      "hideMode": "Never",
+      "delayToShow": 100,
+      "delayToHide": 800,
+      "showHibernateButton": true,
+      "dynamicColor": true
+    },
+    "@seelen/window-manager": {
+      "enabled": true,
+      "autoStackingByCategory": true,
+      "border": {
+        "enabled": true,
+        "width": 3.0,
+        "offset": 0.0
+      },
+      "resizeDelta": 10.0,
+      "workspaceGap": 5,
+      "workspacePadding": 5,
+      "workspaceMargin": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "floating": {
+        "width": 800.0,
+        "height": 500.0
+      },
+      "defaultLayout": "@default/wm-bspwm"
+    },
+    "@seelen/wallpaper-manager": {
+      "enabled": false,
+      "backgrounds": [],
+      "interval": 60,
+      "randomize": false
+    },
+    "@seelen/launcher": {
+      "enabled": true,
+      "monitor": "MouseOver",
+      "runners": [
+        {
+          "id": "RUN",
+          "label": "t:app_launcher.runners.explorer",
+          "program": "explorer.exe",
+          "readonly": true
+        },
+        {
+          "id": "CMD",
+          "label": "t:app_launcher.runners.cmd",
+          "program": "cmd.exe",
+          "readonly": true
+        }
+      ]
+    },
+    "@eythaann/desktop-media-player": {
+      "enabled": false
+    },
+    "@custom/old-start-icon": {
+      "enabled": false
+    }
+  },
+  "byTheme": {
+    "@k-ivy/window-prev-ff": {
+      "--weg-preview-margin-top": "61px",
+      "--weg-preview-scale-y": "1.49",
+      "--weg-preview-scale-x": "1"
+    },
+    "@k-ivy/win-grid-tray-hl": {
+      "--tray-hl-ch-length": "30",
+      "--tray-hl-font-size": "0.6rem"
+    },
+    "@scadane/RoundToolbar3": {
+      "--foreground-var": "#ffffff",
+      "--dynamic-max": "#000000"
+    },
+    "@k-ivy/usr-custom-dock": {
+      "--dock-main-hover-transform": "None",
+      "--dock-bg-layer-2-bg-image": "none",
+      "--dock-bg-layer-2-bg-color": "#00000057",
+      "--dock-item-hover-background-image": "none",
+      "--dock-item-hover-effects": "scale(1.1)",
+      "--dock-item-active-effects": "scale(1.1)",
+      "--dock-separator-color": "#74747491",
+      "--dock-separator-transform": "scale(1.07)"
+    },
+    "@k-ivy/usr-fldr-customs": {
+      "--user-folder-custom-pfp-rounding": "60%",
+      "--user-folder-custom-font": "inherit",
+      "--user-folder-custom-name-x-pos": "-90px",
+      "--user-folder-custom-name": "\"Bibouwunet\"",
+      "--user-folder-custom-font-size": "15px"
+    },
+    "@eythaann/dock-wave-animation": {
+      "--dock-item-zoom-size": "55px"
+    }
+  }
+}
