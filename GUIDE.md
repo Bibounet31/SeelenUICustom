@@ -9,6 +9,6 @@
 # Access-Seelen
 To access seelen UI's UI, right click on the tool-bar, on top of the screen, then click settings
 
-<p align="center">
-  <img src="screenshots/access-settings.gif" alt="Logo" width="200"/>
+<p>
+  <img src="screenshots/access-settings.gif" alt="gif" width="500"/>
 </p>
