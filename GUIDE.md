@@ -2,8 +2,7 @@
 
 - [Access Seelen UI](#Access-Seelen)
 - [Install Plugins, themes, icon packs](#Install-plugins,themes,icons-packs)
-  - [Install unofficial/customs plugins](#chapter-21-requirements)
-- [Chapter 3: Usage](#chapter-3-usage)
+  - [Install unofficial/customs plugins](##install-unofficial/customs-plugins)
 
 
 # Access-Seelen
