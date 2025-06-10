@@ -23,4 +23,4 @@ To install them, click on it, then select download.
 ## install-unofficial/customs-plugins
 You can also create/import your own plugin, for that, you will need to follow theses rules:
 - all plugins should be imported in [drivename]:\Users\[urname]\AppData\Roaming\com.seelen.seelen-ui\plugins
-- all plugins need to be coded in .yml format, with an id, and target (if replacing an item from an existing plugin). : see example plugin: 'example/custom-plugin.yml'
+- all plugins need to be coded in .yml format, with an id, and target (if replacing an item from an existing plugin). See example plugin: `example/custom-plugin.yml`
