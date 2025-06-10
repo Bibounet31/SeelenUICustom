@@ -10,5 +10,5 @@
 To access seelen UI's UI, right click on the tool-bar, on top of the screen, then click settings
 
 <p align="center">
-  <img src="images/logo.png" alt="Logo" width="200"/>
+  <img src="screenshots/access-settings.png" alt="Logo" width="200"/>
 </p>
