@@ -1,0 +1,12 @@
+id: "@custom/example-module-name"
+icon: FaRegCircleUser
+target: "@seelen/fancy-toolbar"
+plugin:
+  type: user
+  withUserFolder: true
+  template: |-
+    return ['@K-Ivy'];
+  style:
+    flexShrink: 0
+
+  ### this change the ursename name (top left), all plugins should start by this id.
