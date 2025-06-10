@@ -16,3 +16,6 @@ To access seelen UI's UI, right click on the tool-bar, on top of the screen, the
 # Install plugins, themes, icons packs
 You can find all available plugins, themes, icon packs [here](https://seelen.io/fr/resources).
 To install them, click on it, then select download. 
+<p>
+  <img src="screenshots/install-plugin.gif" alt="gif" width="500"/>
+</p>
